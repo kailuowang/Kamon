@@ -1,1 +1,1 @@
-version in ThisBuild := "0.4.0"
+version in ThisBuild := "0.4.0_akka-2.4"
